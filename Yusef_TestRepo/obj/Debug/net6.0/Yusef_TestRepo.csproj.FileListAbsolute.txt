@@ -1,0 +1,15 @@
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\bin\Debug\net6.0\Yusef_TestRepo.exe
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\bin\Debug\net6.0\Yusef_TestRepo.deps.json
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\bin\Debug\net6.0\Yusef_TestRepo.runtimeconfig.json
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\bin\Debug\net6.0\Yusef_TestRepo.dll
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\bin\Debug\net6.0\Yusef_TestRepo.pdb
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\obj\Debug\net6.0\Yusef_TestRepo.csproj.AssemblyReference.cache
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\obj\Debug\net6.0\Yusef_TestRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\obj\Debug\net6.0\Yusef_TestRepo.AssemblyInfoInputs.cache
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\obj\Debug\net6.0\Yusef_TestRepo.AssemblyInfo.cs
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\obj\Debug\net6.0\Yusef_TestRepo.csproj.CoreCompileInputs.cache
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\obj\Debug\net6.0\Yusef_TestRepo.dll
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\obj\Debug\net6.0\refint\Yusef_TestRepo.dll
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\obj\Debug\net6.0\Yusef_TestRepo.pdb
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\obj\Debug\net6.0\Yusef_TestRepo.genruntimeconfig.cache
+C:\Users\johnd\OneDrive\Desktop\repos\Yusef_TestRepo\Yusef_TestRepo\obj\Debug\net6.0\ref\Yusef_TestRepo.dll
